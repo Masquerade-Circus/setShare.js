@@ -4,7 +4,7 @@ setShare.js
 A jQuery plugin to add social like buttons with one single call.
 
 ## Demo
-http://masquerade-circus.creaken.com/Plugins/setShare/
+http://masquerade-circus.net/myPlugins/setShare/
 
 ##How to use:
 Call the plugin on the set of elements to add the like buttons. 
